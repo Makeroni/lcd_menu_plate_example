@@ -11,7 +11,7 @@ This is a python menu for SainSmart 16x2 LCD display keypad, it uses Adafruit li
 
 ![](/images/IMG_2664.jpg?raw=true)
 
-[SAINSTSMART 16x2 LCD KEYPAD!](http://www.sainsmart.com/raspberry-pi/mouse-over-image-to-zoom-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-160.html)
+[SAINSTSMART 16x2 LCD KEYPAD](http://www.sainsmart.com/raspberry-pi/mouse-over-image-to-zoom-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-160.html)
 
 
 Use Up/Down buttons to move forward/backward on the menu, press select button to confirm your option.
