@@ -3,3 +3,4 @@ build
 *.pyc
 setuptools-*
 .DS_Store
+._.DS_Store
