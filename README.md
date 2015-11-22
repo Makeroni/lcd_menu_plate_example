@@ -3,6 +3,13 @@ LCD MENU PLATE FOR SAINSTSMART 16x2 LCD KEYPAD
 
 This is a python menu for SainSmart 16x2 LCD display keypad, it uses Adafruit library to coontrol button and PiMinerInfo class to get cgminer API information.
 
+![Alt text](/images/IMG_2653.jpg?raw=true)
+
+![Alt text](/images/IMG_2654.jpg?raw=true)
+
+[SAINSTSMART 16x2 LCD KEYPAD!](http://www.sainsmart.com/raspberry-pi/mouse-over-image-to-zoom-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-160.html)
+
+
 Options available for this menu are:
 
 - Show Date/Time
