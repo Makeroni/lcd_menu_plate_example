@@ -1,14 +1,22 @@
-LCD MENU PLATE FOR SAINSTSMART 16x2 LCD KEYPAD
-==============================================
+LCD MENU PLATE FOR SAINSTSMART I2C 16x2 LCD KEYPAD FOR RPI
+==========================================================
 
 This is a python menu for SainSmart 16x2 LCD display keypad, it uses Adafruit library to coontrol button and PiMinerInfo class to get cgminer API information.
 
-![Alt text](/images/IMG_2653.jpg?raw=true)
+![](/images/IMG_2653.jpg?raw=true)
 
-![Alt text](/images/IMG_2654.jpg?raw=true)
+![](/images/IMG_2654.jpg?raw=true)
 
 [SAINSTSMART 16x2 LCD KEYPAD!](http://www.sainsmart.com/raspberry-pi/mouse-over-image-to-zoom-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-1602-keypad-for-raspberry-pi-sainsmart-i2c-iic-interface-rgb-led-screen-lcd-160.html)
 
+
+Use Up/Down buttons to move forward/backward on the menu, press select button to confirm your option.
+
+The code of the menu is at the path: 
+
+````
+/lcd_menu_plate_example/lcd_menu_plate.py
+````
 
 Options available for this menu are:
 
@@ -20,7 +28,6 @@ Options available for this menu are:
 - Show Local IP
 - Shutdown raspberry option
 - Reboot raspberry option
-
 
 You must enable I2c on your RaspberryPi to use this plate:
 
